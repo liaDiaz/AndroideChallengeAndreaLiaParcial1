@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/andyv/Desktop/Escuela/Sem feb-jun 22/Des. api Android/Challenge/challengeAndroideLiaAndy/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/andyv/Desktop/Escuela/Sem feb-jun 22/Des. api Android/Challenge/challengeAndroideLiaAndy/app/src/main/res/layout/fragment_captura.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/andyv/Desktop/Escuela/Sem feb-jun 22/Des. api Android/Challenge/challengeAndroideLiaAndy/app/src/main/res/layout/fragment_inicio.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/andyv/Desktop/Escuela/Sem feb-jun 22/Des. api Android/Challenge/challengeAndroideLiaAndy/app/src/main/res/layout/fragment_lista.xml" value="0.1274131274131274" />
+        <entry key="..\:/Users/andyv/Desktop/Escuela/Sem feb-jun 22/Des. api Android/Challenge/challengeAndroideLiaAndy/app/src/main/res/layout/renglon.xml" value="0.33" />
+        <entry key="..\:/Users/liaDiaz/AndroidStudioProjects/challenge/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/liaDiaz/AndroidStudioProjects/challenge/app/src/main/res/layout/fragment_captura.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/liaDiaz/AndroidStudioProjects/challenge/app/src/main/res/layout/fragment_inicio.xml" value="0.33" />
+        <entry key="..\:/Users/liaDiaz/AndroidStudioProjects/challengeAndroideLiaAndy-master/app/src/main/res/layout/fragment_splash.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

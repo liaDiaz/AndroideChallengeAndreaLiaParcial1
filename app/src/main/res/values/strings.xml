@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">challenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nombre">Tu nombre</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="nombreTarea">nombre de la tarea</string>
+    <string name="descripcionTarea">Descripcion tarea</string>
+    <string name="prioridad" />
+    <string name="prioridadTarea">Prioridad Tarea</string>
+    <string name="agregar">Agregar</string>
+    <string name="valorNombre">"Escribe tu nombre "</string>
+    <string name="userNombre" />
+    <string name="userName">"Escribe tu nombre "</string>
+</resources>
